@@ -408,14 +408,14 @@
                 <mxCell id="249" value="(N:1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="350" y="440" width="40" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="251" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                <mxCell id="251" value="(0,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="100" y="440" width="40" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="252" value="(1, 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                <mxCell id="252" value="(1, n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="1000" y="1110" width="40" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="253" value="N:1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-                    <mxGeometry x="399" y="1120" width="30" height="20" as="geometry"/>
+                <mxCell id="253" value="N:M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="394" y="1120" width="40" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="254" value="(1,n)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry x="220" y="100" width="40" height="20" as="geometry"/>
